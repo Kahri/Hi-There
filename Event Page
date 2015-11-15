@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+    
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Events Page</title>
+        <meta name="description" content="An interactive getting started guide for Brackets.">
+        <link rel="stylesheet" href="main.css">
+        
+        <style>
+            body {
+                background-image: url(http://i.imgur.com/IXuHh62.jpg?1);
+                background-repeat: no-repeat;
+                padding-top: 0;
+                background-size: 98%;
+                
+               
+            }
+            
+            https://pixabay.com/get/8dfe59c7fc609290577d/1447580190/waffle-487200_1920.jpg?direct
+            
+            .middle {
+        width: 100px;
+        height: 30px;
+        border: 5px solid;
+        display:inline-block;
+        color: white;
+        font-weight:70pt ;
+        border: 2px solid;
+        border-style: dashed;
+        margin: 80px 60px 60px 20px;
+        transform: translateX(100px);
+        text-align:center;
+      }
+            
+            
+            
+            
+             #pagewrap {
+        padding: 5px;
+        width: 960px;
+                 margin: 20px auto;}
+            
+            #potato{
+                width: 300px;
+                height: 200px;
+            }
+            
+            #logo{
+                width:100px;
+                height:100px;
+                transform:translateY(-230px);
+            }
+            
+        </style>
+    </head>
+    
+    <body>
+    <div id="pagewrap">
+        
+        <div id="t1" class="middle"><a href="file:///Users/a00954170/Desktop/Try.html" >Home</a></div>
+        <div id="t2" class="middle">Gallery</div>
+        <div id="t3" class="middle">Events</div>
+        <div id="t4" class="middle">About Us</div>
+        <div id="t5" class="middle">Contact</div>
+        
+        
+        <div id="event1">
+            <img id="potato" src="https://pixabay.com/get/566dcdb1e78fce50be26/1447579704/bio-172200_1920.jpg?direct" alt=potato>
+            <p>hi there</p>
+        </div>
+
+        <div id="idk" src=http://cdn2.raywenderlich.com/wp-content/uploads/2014/06/swift_tut.jpg alt=meh>
+           
+        </div>
+       
+        
+        </div>
+    </body>
+    </html>
+    
+     
